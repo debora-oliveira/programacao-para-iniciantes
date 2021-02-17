@@ -1,4 +1,4 @@
-# programacao-para-iniciantes
+# programação para iniciantes
 
 Este repositório tem o objetivo de indicar materiais que possam contribuir
 com o desenvolvimento daqueles que iniciam os estudos em programação; existem muitas coisas para se aprender, conceitos como lógica de programação, orientação a objetos e estruturas de dados e além disso ir aprofundando o conhecimentos em linguagens de programação.
