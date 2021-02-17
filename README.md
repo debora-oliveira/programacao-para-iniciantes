@@ -31,7 +31,7 @@ https://youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
 * Univesp:
 https://youtube.com/playlist?list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1
 
-* Neste positório também existem pdfs para auxiliar neste conceito
+* Neste repositório também existem pdfs para auxiliar neste conceito
 
 ## Estrutura de Dados:
 
